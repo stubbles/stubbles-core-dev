@@ -12,6 +12,7 @@ namespace stubbles\test\lang\reflect;
  * Class to test stubbles\lang\reflect.
  *
  * @SomeAnnotation
+ * @AnotherAnnotation
  */
 class TestWithOutMethodsAndProperties
 {
